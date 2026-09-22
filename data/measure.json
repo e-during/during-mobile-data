@@ -2,6 +2,312 @@
   "qms": [
     {
       "no": "1",
+      "moldType": "기타",
+      "range": "기타",
+      "reason": "기타",
+      "customer": "두원중공업",
+      "item": "NX5 TERMINAL",
+      "partNo": "-",
+      "prodDate": "2026-09-18",
+      "qty": "",
+      "dept": "품질보증팀(Quality Assurance Team)",
+      "requestDate": "2026-09-18",
+      "dueDate": "2026-09-21",
+      "completeDate": "2026-09-21",
+      "assignee": "정충용(JEONG CHUNG YONG)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "2",
+      "moldType": "양산",
+      "range": "기타",
+      "reason": "기타",
+      "customer": "현대모비스(주)",
+      "item": "MEB5.2 HOUSING Ass`Y",
+      "partNo": "-",
+      "prodDate": "2026-09-17",
+      "qty": "4",
+      "dept": "품질보증팀(Quality Assurance Team)",
+      "requestDate": "2026-09-17",
+      "dueDate": "2026-09-18",
+      "completeDate": "",
+      "assignee": "이정훈(Lee Jeonghoon)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "3",
+      "moldType": "신작",
+      "range": "도면표시부",
+      "reason": "측정R&amp;R",
+      "customer": "만도브로제",
+      "item": "SRR40S HOUSING 설비 지그",
+      "partNo": "-",
+      "prodDate": "2026-09-18",
+      "qty": "1",
+      "dept": "설비보전팀(Facility Maintenance Team)",
+      "requestDate": "2026-09-18",
+      "dueDate": "2026-09-25",
+      "completeDate": "2026-09-18",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "4",
+      "moldType": "신작",
+      "range": "전항목",
+      "reason": "4M변경",
+      "customer": "현대케피코",
+      "item": "듀얼퍼지이젝터 ADAPTOR AIR TUBE(CL4m)",
+      "partNo": "E9165020011",
+      "prodDate": "2026-09-17",
+      "qty": "3",
+      "dept": "금형개발팀(Mold Develop Team)",
+      "requestDate": "2026-09-17",
+      "dueDate": "2026-09-22",
+      "completeDate": "",
+      "assignee": "이정훈(Lee Jeonghoon)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "5",
+      "moldType": "신작",
+      "range": "도면표시부",
+      "reason": "기타",
+      "customer": "두원중공업",
+      "item": "STATOR 단품",
+      "partNo": "-",
+      "prodDate": "2026-09-17",
+      "qty": "3",
+      "dept": "품질보증팀(Quality Assurance Team)",
+      "requestDate": "2026-09-17",
+      "dueDate": "2026-09-17",
+      "completeDate": "2026-09-17",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "6",
+      "moldType": "신작",
+      "range": "도면표시부",
+      "reason": "고객요청",
+      "customer": "현대모비스(주)",
+      "item": "TORQUE TUBE",
+      "partNo": "-",
+      "prodDate": "2026-09-15",
+      "qty": "1",
+      "dept": "개발팀(Develop Team)",
+      "requestDate": "2026-09-15",
+      "dueDate": "2026-09-18",
+      "completeDate": "2026-09-18",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "7",
+      "moldType": "양산",
+      "range": "정합성승인항목",
+      "reason": "고객요청",
+      "customer": "주식회사 유라테크",
+      "item": "601E 4PIN CONNECTOR",
+      "partNo": "DMIS",
+      "prodDate": "2026-09-17",
+      "qty": "",
+      "dept": "품질경영팀(Quality Management Team)",
+      "requestDate": "2026-09-16",
+      "dueDate": "2026-09-17",
+      "completeDate": "2026-09-17",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "8",
+      "moldType": "신작",
+      "range": "기타",
+      "reason": "기타",
+      "customer": "두원중공업",
+      "item": "ROTOR COM",
+      "partNo": "DMIS",
+      "prodDate": "2026-09-16",
+      "qty": "",
+      "dept": "품질경영팀(Quality Management Team)",
+      "requestDate": "2026-09-16",
+      "dueDate": "2026-09-16",
+      "completeDate": "2026-09-16",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "9",
+      "moldType": "신작",
+      "range": "기타",
+      "reason": "기타",
+      "customer": "두원중공업",
+      "item": "STATOR COM",
+      "partNo": "DMIS",
+      "prodDate": "2026-09-16",
+      "qty": "",
+      "dept": "품질경영팀(Quality Management Team)",
+      "requestDate": "2026-09-16",
+      "dueDate": "2026-09-16",
+      "completeDate": "2026-09-16",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "10",
+      "moldType": "신작",
+      "range": "전항목",
+      "reason": "고객요청",
+      "customer": "두원중공업",
+      "item": "STATOR COM",
+      "partNo": "SEST520-34C00",
+      "prodDate": "2026-09-16",
+      "qty": "3",
+      "dept": "품질보증팀(Quality Assurance Team)",
+      "requestDate": "2026-09-16",
+      "dueDate": "2026-09-16",
+      "completeDate": "2026-09-16",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "11",
+      "moldType": "신작",
+      "range": "전항목",
+      "reason": "고객요청",
+      "customer": "두원중공업",
+      "item": "ROTOR COM",
+      "partNo": "SERO520-34C00",
+      "prodDate": "2026-09-16",
+      "qty": "3",
+      "dept": "품질보증팀(Quality Assurance Team)",
+      "requestDate": "2026-09-16",
+      "dueDate": "2026-09-16",
+      "completeDate": "2026-09-16",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "12",
+      "moldType": "기타",
+      "range": "도면표시부",
+      "reason": "기타",
+      "customer": "두원중공업",
+      "item": "NX5 TERMINAL",
+      "partNo": "-",
+      "prodDate": "2026-09-17",
+      "qty": "10",
+      "dept": "품질보증팀(Quality Assurance Team)",
+      "requestDate": "2026-09-16",
+      "dueDate": "2026-09-17",
+      "completeDate": "2026-09-17",
+      "assignee": "정충용(JEONG CHUNG YONG)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "13",
+      "moldType": "양산",
+      "range": "기타",
+      "reason": "기타",
+      "customer": "현대모비스(주)",
+      "item": "ECU HOUSING-ESCI--MEB5.2",
+      "partNo": "61589-36910",
+      "prodDate": "2026-09-16",
+      "qty": "4",
+      "dept": "개발팀(Develop Team)",
+      "requestDate": "2026-09-17",
+      "dueDate": "2026-09-18",
+      "completeDate": "2026-09-18",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "14",
+      "moldType": "양산",
+      "range": "기타",
+      "reason": "기타",
+      "customer": "HL Klemove(송도)",
+      "item": "IDB2 HOUSING Ass`Y BASE",
+      "partNo": "-",
+      "prodDate": "2026-09-16",
+      "qty": "3",
+      "dept": "품질보증팀(Quality Assurance Team)",
+      "requestDate": "2026-09-16",
+      "dueDate": "2026-09-23",
+      "completeDate": "",
+      "assignee": "이정훈(Lee Jeonghoon)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "15",
+      "moldType": "양산",
+      "range": "기타",
+      "reason": "고객요청",
+      "customer": "HL Klemove(송도)",
+      "item": "IDB2 HOUSING Ass`Y MIRRORED",
+      "partNo": "-",
+      "prodDate": "2026-09-16",
+      "qty": "2",
+      "dept": "품질보증팀(Quality Assurance Team)",
+      "requestDate": "2026-09-16",
+      "dueDate": "2026-09-17",
+      "completeDate": "2026-09-16",
+      "assignee": "이정훈(Lee Jeonghoon)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "16",
+      "moldType": "PROTO",
+      "range": "기타",
+      "reason": "고객요청",
+      "customer": "현대모비스(주)",
+      "item": "SCT ASS`Y",
+      "partNo": "-",
+      "prodDate": "2026-09-15",
+      "qty": "2",
+      "dept": "전동화개발팀",
+      "requestDate": "2026-09-15",
+      "dueDate": "2026-09-17",
+      "completeDate": "2026-09-16",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "17",
+      "moldType": "증작",
+      "range": "정합성승인항목",
+      "reason": "금형수정",
+      "customer": "현대케피코",
+      "item": "GAMMA2 T-GDI MAP SENSOR HOUSING 9차",
+      "partNo": "-",
+      "prodDate": "2026-07-20",
+      "qty": "4",
+      "dept": "금형개발팀(Mold Develop Team)",
+      "requestDate": "2026-09-15",
+      "dueDate": "2026-09-18",
+      "completeDate": "2026-09-18",
+      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "approval": "결재완료",
+      "attach": ""
+    },
+    {
+      "no": "18",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "측정R&amp;R",
@@ -13,13 +319,13 @@
       "dept": "금형개발팀(Mold Develop Team)",
       "requestDate": "2026-09-07",
       "dueDate": "2026-09-10",
-      "completeDate": "",
+      "completeDate": "2026-09-10",
       "assignee": "임동혁\n(LIM DONGHYUK)",
       "approval": "결재완료",
       "attach": ""
     },
     {
-      "no": "2",
+      "no": "19",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "측정R&amp;R",
@@ -37,7 +343,7 @@
       "attach": ""
     },
     {
-      "no": "3",
+      "no": "20",
       "moldType": "양산",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -49,13 +355,13 @@
       "dept": "품질경영팀(Quality Management Team)",
       "requestDate": "2026-08-26",
       "dueDate": "2026-09-11",
-      "completeDate": "",
+      "completeDate": "2026-09-11",
       "assignee": "임동혁\n(LIM DONGHYUK)",
       "approval": "결재완료",
       "attach": ""
     },
     {
-      "no": "4",
+      "no": "21",
       "moldType": "양산",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -73,7 +379,7 @@
       "attach": ""
     },
     {
-      "no": "5",
+      "no": "22",
       "moldType": "양산",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -91,7 +397,7 @@
       "attach": ""
     },
     {
-      "no": "6",
+      "no": "23",
       "moldType": "양산",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -109,7 +415,7 @@
       "attach": ""
     },
     {
-      "no": "7",
+      "no": "24",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "측정R&amp;R",
@@ -127,7 +433,7 @@
       "attach": ""
     },
     {
-      "no": "8",
+      "no": "25",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "측정R&amp;R",
@@ -145,7 +451,7 @@
       "attach": ""
     },
     {
-      "no": "9",
+      "no": "26",
       "moldType": "신작",
       "range": "기타",
       "reason": "고객요청",
@@ -163,7 +469,7 @@
       "attach": ""
     },
     {
-      "no": "10",
+      "no": "27",
       "moldType": "양산",
       "range": "기타",
       "reason": "고객요청",
@@ -181,7 +487,7 @@
       "attach": ""
     },
     {
-      "no": "11",
+      "no": "28",
       "moldType": "양산",
       "range": "기타",
       "reason": "고객요청",
@@ -199,7 +505,7 @@
       "attach": ""
     },
     {
-      "no": "12",
+      "no": "29",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -211,13 +517,13 @@
       "dept": "품질보증팀(Quality Assurance Team)",
       "requestDate": "2026-09-04",
       "dueDate": "2026-09-23",
-      "completeDate": "",
+      "completeDate": "2026-09-15",
       "assignee": "이정훈(Lee Jeonghoon)",
       "approval": "결재완료",
       "attach": ""
     },
     {
-      "no": "13",
+      "no": "30",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -235,7 +541,7 @@
       "attach": ""
     },
     {
-      "no": "14",
+      "no": "31",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -253,7 +559,7 @@
       "attach": ""
     },
     {
-      "no": "15",
+      "no": "32",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -271,7 +577,7 @@
       "attach": ""
     },
     {
-      "no": "16",
+      "no": "33",
       "moldType": "양산",
       "range": "전항목",
       "reason": "금형수정",
@@ -289,7 +595,7 @@
       "attach": ""
     },
     {
-      "no": "17",
+      "no": "34",
       "moldType": "신작",
       "range": "전차수NG부",
       "reason": "금형수정",
@@ -307,7 +613,7 @@
       "attach": ""
     },
     {
-      "no": "18",
+      "no": "35",
       "moldType": "기타",
       "range": "전항목",
       "reason": "기타",
@@ -325,7 +631,7 @@
       "attach": ""
     },
     {
-      "no": "19",
+      "no": "36",
       "moldType": "PROTO",
       "range": "기타",
       "reason": "고객요청",
@@ -343,7 +649,7 @@
       "attach": ""
     },
     {
-      "no": "20",
+      "no": "37",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -361,7 +667,7 @@
       "attach": ""
     },
     {
-      "no": "21",
+      "no": "38",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -379,7 +685,7 @@
       "attach": ""
     },
     {
-      "no": "22",
+      "no": "39",
       "moldType": "PROTO",
       "range": "기타",
       "reason": "고객요청",
@@ -397,7 +703,7 @@
       "attach": ""
     },
     {
-      "no": "23",
+      "no": "40",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -415,7 +721,7 @@
       "attach": ""
     },
     {
-      "no": "24",
+      "no": "41",
       "moldType": "양산",
       "range": "정합성승인항목",
       "reason": "기타",
@@ -433,7 +739,7 @@
       "attach": ""
     },
     {
-      "no": "25",
+      "no": "42",
       "moldType": "양산",
       "range": "기타",
       "reason": "정기검사",
@@ -451,7 +757,7 @@
       "attach": ""
     },
     {
-      "no": "26",
+      "no": "43",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -469,7 +775,7 @@
       "attach": ""
     },
     {
-      "no": "27",
+      "no": "44",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -487,7 +793,7 @@
       "attach": ""
     },
     {
-      "no": "28",
+      "no": "45",
       "moldType": "신작",
       "range": "전항목",
       "reason": "기타",
@@ -505,7 +811,7 @@
       "attach": ""
     },
     {
-      "no": "29",
+      "no": "46",
       "moldType": "양산",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -523,7 +829,7 @@
       "attach": ""
     },
     {
-      "no": "30",
+      "no": "47",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -541,7 +847,7 @@
       "attach": ""
     },
     {
-      "no": "31",
+      "no": "48",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -559,7 +865,7 @@
       "attach": ""
     },
     {
-      "no": "32",
+      "no": "49",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -577,7 +883,7 @@
       "attach": ""
     },
     {
-      "no": "33",
+      "no": "50",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -595,7 +901,7 @@
       "attach": ""
     },
     {
-      "no": "34",
+      "no": "51",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -613,7 +919,7 @@
       "attach": ""
     },
     {
-      "no": "35",
+      "no": "52",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -631,7 +937,7 @@
       "attach": ""
     },
     {
-      "no": "36",
+      "no": "53",
       "moldType": "양산",
       "range": "기타",
       "reason": "고객요청",
@@ -649,7 +955,7 @@
       "attach": ""
     },
     {
-      "no": "37",
+      "no": "54",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -667,7 +973,7 @@
       "attach": ""
     },
     {
-      "no": "38",
+      "no": "55",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -685,7 +991,7 @@
       "attach": ""
     },
     {
-      "no": "39",
+      "no": "56",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -703,7 +1009,7 @@
       "attach": ""
     },
     {
-      "no": "40",
+      "no": "57",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -721,7 +1027,7 @@
       "attach": ""
     },
     {
-      "no": "41",
+      "no": "58",
       "moldType": "양산",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -739,7 +1045,7 @@
       "attach": ""
     },
     {
-      "no": "42",
+      "no": "59",
       "moldType": "기타",
       "range": "기타",
       "reason": "기타",
@@ -757,7 +1063,7 @@
       "attach": ""
     },
     {
-      "no": "43",
+      "no": "60",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -775,7 +1081,7 @@
       "attach": ""
     },
     {
-      "no": "44",
+      "no": "61",
       "moldType": "기타",
       "range": "전항목",
       "reason": "기타",
@@ -793,7 +1099,7 @@
       "attach": ""
     },
     {
-      "no": "45",
+      "no": "62",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -811,7 +1117,7 @@
       "attach": ""
     },
     {
-      "no": "46",
+      "no": "63",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -829,7 +1135,7 @@
       "attach": ""
     },
     {
-      "no": "47",
+      "no": "64",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -847,7 +1153,7 @@
       "attach": ""
     },
     {
-      "no": "48",
+      "no": "65",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -865,7 +1171,7 @@
       "attach": ""
     },
     {
-      "no": "49",
+      "no": "66",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -883,7 +1189,7 @@
       "attach": ""
     },
     {
-      "no": "50",
+      "no": "67",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -901,7 +1207,7 @@
       "attach": ""
     },
     {
-      "no": "51",
+      "no": "68",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -919,7 +1225,7 @@
       "attach": ""
     },
     {
-      "no": "52",
+      "no": "69",
       "moldType": "증작",
       "range": "전항목",
       "reason": "금형수정",
@@ -937,7 +1243,7 @@
       "attach": ""
     },
     {
-      "no": "53",
+      "no": "70",
       "moldType": "신작",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -955,7 +1261,7 @@
       "attach": ""
     },
     {
-      "no": "54",
+      "no": "71",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -973,7 +1279,7 @@
       "attach": ""
     },
     {
-      "no": "55",
+      "no": "72",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -991,7 +1297,7 @@
       "attach": ""
     },
     {
-      "no": "56",
+      "no": "73",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -1009,7 +1315,7 @@
       "attach": ""
     },
     {
-      "no": "57",
+      "no": "74",
       "moldType": "신작",
       "range": "전항목",
       "reason": "금형수정",
@@ -1027,7 +1333,7 @@
       "attach": ""
     },
     {
-      "no": "58",
+      "no": "75",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -1045,7 +1351,7 @@
       "attach": ""
     },
     {
-      "no": "59",
+      "no": "76",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -1063,7 +1369,7 @@
       "attach": ""
     },
     {
-      "no": "60",
+      "no": "77",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -1081,7 +1387,7 @@
       "attach": ""
     },
     {
-      "no": "61",
+      "no": "78",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -1099,7 +1405,7 @@
       "attach": ""
     },
     {
-      "no": "62",
+      "no": "79",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -1117,7 +1423,7 @@
       "attach": ""
     },
     {
-      "no": "63",
+      "no": "80",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -1135,7 +1441,7 @@
       "attach": ""
     },
     {
-      "no": "64",
+      "no": "81",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -1153,7 +1459,7 @@
       "attach": ""
     },
     {
-      "no": "65",
+      "no": "82",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -1171,7 +1477,7 @@
       "attach": ""
     },
     {
-      "no": "66",
+      "no": "83",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -1189,7 +1495,7 @@
       "attach": ""
     },
     {
-      "no": "67",
+      "no": "84",
       "moldType": "기타",
       "range": "기타",
       "reason": "기타",
@@ -1207,7 +1513,7 @@
       "attach": ""
     },
     {
-      "no": "68",
+      "no": "85",
       "moldType": "기타",
       "range": "기타",
       "reason": "기타",
@@ -1225,7 +1531,7 @@
       "attach": ""
     },
     {
-      "no": "69",
+      "no": "86",
       "moldType": "증작",
       "range": "기타",
       "reason": "기타",
@@ -1243,7 +1549,7 @@
       "attach": ""
     },
     {
-      "no": "70",
+      "no": "87",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -1261,7 +1567,7 @@
       "attach": ""
     },
     {
-      "no": "71",
+      "no": "88",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -1279,7 +1585,7 @@
       "attach": ""
     },
     {
-      "no": "72",
+      "no": "89",
       "moldType": "신작",
       "range": "기타",
       "reason": "측정R&amp;R",
@@ -1297,7 +1603,7 @@
       "attach": ""
     },
     {
-      "no": "73",
+      "no": "90",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -1315,7 +1621,7 @@
       "attach": ""
     },
     {
-      "no": "74",
+      "no": "91",
       "moldType": "증작",
       "range": "기타",
       "reason": "고객요청",
@@ -1333,7 +1639,7 @@
       "attach": ""
     },
     {
-      "no": "75",
+      "no": "92",
       "moldType": "기타",
       "range": "기타",
       "reason": "기타",
@@ -1351,7 +1657,7 @@
       "attach": ""
     },
     {
-      "no": "76",
+      "no": "93",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -1369,7 +1675,7 @@
       "attach": ""
     },
     {
-      "no": "77",
+      "no": "94",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -1387,7 +1693,7 @@
       "attach": ""
     },
     {
-      "no": "78",
+      "no": "95",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -1405,7 +1711,7 @@
       "attach": ""
     },
     {
-      "no": "79",
+      "no": "96",
       "moldType": "신작",
       "range": "전항목",
       "reason": "기타",
@@ -1423,7 +1729,7 @@
       "attach": ""
     },
     {
-      "no": "80",
+      "no": "97",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -1441,7 +1747,7 @@
       "attach": ""
     },
     {
-      "no": "81",
+      "no": "98",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -1459,7 +1765,7 @@
       "attach": ""
     },
     {
-      "no": "82",
+      "no": "99",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -1477,7 +1783,7 @@
       "attach": ""
     },
     {
-      "no": "83",
+      "no": "100",
       "moldType": "양산",
       "range": "기타",
       "reason": "금형수정",
@@ -1495,7 +1801,7 @@
       "attach": ""
     },
     {
-      "no": "84",
+      "no": "101",
       "moldType": "증작",
       "range": "기타",
       "reason": "기타",
@@ -1513,7 +1819,7 @@
       "attach": ""
     },
     {
-      "no": "85",
+      "no": "102",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -1531,7 +1837,7 @@
       "attach": ""
     },
     {
-      "no": "86",
+      "no": "103",
       "moldType": "신작",
       "range": "기타",
       "reason": "금형수정",
@@ -1549,7 +1855,7 @@
       "attach": ""
     },
     {
-      "no": "87",
+      "no": "104",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -1567,7 +1873,7 @@
       "attach": ""
     },
     {
-      "no": "88",
+      "no": "105",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -1585,7 +1891,7 @@
       "attach": ""
     },
     {
-      "no": "89",
+      "no": "106",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -1603,7 +1909,7 @@
       "attach": ""
     },
     {
-      "no": "90",
+      "no": "107",
       "moldType": "증작",
       "range": "기타",
       "reason": "기타",
@@ -1621,7 +1927,7 @@
       "attach": ""
     },
     {
-      "no": "91",
+      "no": "108",
       "moldType": "기타",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -1639,7 +1945,7 @@
       "attach": ""
     },
     {
-      "no": "92",
+      "no": "109",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -1657,7 +1963,7 @@
       "attach": ""
     },
     {
-      "no": "93",
+      "no": "110",
       "moldType": "신작",
       "range": "전항목",
       "reason": "기타",
@@ -1675,7 +1981,7 @@
       "attach": ""
     },
     {
-      "no": "94",
+      "no": "111",
       "moldType": "양산",
       "range": "기타",
       "reason": "금형수정",
@@ -1693,7 +1999,7 @@
       "attach": ""
     },
     {
-      "no": "95",
+      "no": "112",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -1711,7 +2017,7 @@
       "attach": ""
     },
     {
-      "no": "96",
+      "no": "113",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "기타",
@@ -1729,7 +2035,7 @@
       "attach": ""
     },
     {
-      "no": "97",
+      "no": "114",
       "moldType": "기타",
       "range": "도면표시부",
       "reason": "기타",
@@ -1747,7 +2053,7 @@
       "attach": ""
     },
     {
-      "no": "98",
+      "no": "115",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -1765,7 +2071,7 @@
       "attach": ""
     },
     {
-      "no": "99",
+      "no": "116",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -1783,7 +2089,7 @@
       "attach": ""
     },
     {
-      "no": "100",
+      "no": "117",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -1801,7 +2107,7 @@
       "attach": ""
     },
     {
-      "no": "101",
+      "no": "118",
       "moldType": "양산",
       "range": "기타",
       "reason": "고객요청",
@@ -1819,7 +2125,7 @@
       "attach": ""
     },
     {
-      "no": "102",
+      "no": "119",
       "moldType": "PROTO",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -1837,7 +2143,7 @@
       "attach": ""
     },
     {
-      "no": "103",
+      "no": "120",
       "moldType": "양산",
       "range": "전항목",
       "reason": "기타",
@@ -1855,7 +2161,7 @@
       "attach": ""
     },
     {
-      "no": "104",
+      "no": "121",
       "moldType": "양산",
       "range": "기타",
       "reason": "4M변경",
@@ -1873,7 +2179,7 @@
       "attach": ""
     },
     {
-      "no": "105",
+      "no": "122",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -1891,7 +2197,7 @@
       "attach": ""
     },
     {
-      "no": "106",
+      "no": "123",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -1909,7 +2215,7 @@
       "attach": ""
     },
     {
-      "no": "107",
+      "no": "124",
       "moldType": "양산",
       "range": "전항목",
       "reason": "4M변경",
@@ -1927,7 +2233,7 @@
       "attach": ""
     },
     {
-      "no": "108",
+      "no": "125",
       "moldType": "신작",
       "range": "전항목",
       "reason": "기타",
@@ -1945,7 +2251,7 @@
       "attach": ""
     },
     {
-      "no": "109",
+      "no": "126",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "기타",
@@ -1963,7 +2269,7 @@
       "attach": ""
     },
     {
-      "no": "110",
+      "no": "127",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -1981,7 +2287,7 @@
       "attach": ""
     },
     {
-      "no": "111",
+      "no": "128",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -1999,7 +2305,7 @@
       "attach": ""
     },
     {
-      "no": "112",
+      "no": "129",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2017,7 +2323,7 @@
       "attach": ""
     },
     {
-      "no": "113",
+      "no": "130",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2035,7 +2341,7 @@
       "attach": ""
     },
     {
-      "no": "114",
+      "no": "131",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2053,7 +2359,7 @@
       "attach": ""
     },
     {
-      "no": "115",
+      "no": "132",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2071,7 +2377,7 @@
       "attach": ""
     },
     {
-      "no": "116",
+      "no": "133",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2089,7 +2395,7 @@
       "attach": ""
     },
     {
-      "no": "117",
+      "no": "134",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2107,7 +2413,7 @@
       "attach": ""
     },
     {
-      "no": "118",
+      "no": "135",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -2125,7 +2431,7 @@
       "attach": ""
     },
     {
-      "no": "119",
+      "no": "136",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -2143,7 +2449,7 @@
       "attach": ""
     },
     {
-      "no": "120",
+      "no": "137",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -2161,7 +2467,7 @@
       "attach": ""
     },
     {
-      "no": "121",
+      "no": "138",
       "moldType": "양산",
       "range": "기타",
       "reason": "고객요청",
@@ -2179,7 +2485,7 @@
       "attach": ""
     },
     {
-      "no": "122",
+      "no": "139",
       "moldType": "기타",
       "range": "전항목",
       "reason": "기타",
@@ -2197,7 +2503,7 @@
       "attach": ""
     },
     {
-      "no": "123",
+      "no": "140",
       "moldType": "양산",
       "range": "전항목",
       "reason": "4M변경",
@@ -2215,7 +2521,7 @@
       "attach": ""
     },
     {
-      "no": "124",
+      "no": "141",
       "moldType": "양산",
       "range": "전항목",
       "reason": "금형수정",
@@ -2233,7 +2539,7 @@
       "attach": ""
     },
     {
-      "no": "125",
+      "no": "142",
       "moldType": "PROTO",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -2251,7 +2557,7 @@
       "attach": ""
     },
     {
-      "no": "126",
+      "no": "143",
       "moldType": "신작",
       "range": "전차수NG부",
       "reason": "금형수정",
@@ -2269,7 +2575,7 @@
       "attach": ""
     },
     {
-      "no": "127",
+      "no": "144",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -2287,7 +2593,7 @@
       "attach": ""
     },
     {
-      "no": "128",
+      "no": "145",
       "moldType": "양산",
       "range": "전항목",
       "reason": "정기검사",
@@ -2305,7 +2611,7 @@
       "attach": ""
     },
     {
-      "no": "129",
+      "no": "146",
       "moldType": "증작",
       "range": "기타",
       "reason": "기타",
@@ -2323,7 +2629,7 @@
       "attach": ""
     },
     {
-      "no": "130",
+      "no": "147",
       "moldType": "증작",
       "range": "정합성승인항목",
       "reason": "기타",
@@ -2341,7 +2647,7 @@
       "attach": ""
     },
     {
-      "no": "131",
+      "no": "148",
       "moldType": "신작",
       "range": "정합성승인항목",
       "reason": "기타",
@@ -2359,7 +2665,7 @@
       "attach": ""
     },
     {
-      "no": "132",
+      "no": "149",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "기타",
@@ -2377,7 +2683,7 @@
       "attach": ""
     },
     {
-      "no": "133",
+      "no": "150",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -2395,7 +2701,7 @@
       "attach": ""
     },
     {
-      "no": "134",
+      "no": "151",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2413,7 +2719,7 @@
       "attach": ""
     },
     {
-      "no": "135",
+      "no": "152",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -2431,7 +2737,7 @@
       "attach": ""
     },
     {
-      "no": "136",
+      "no": "153",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2449,7 +2755,7 @@
       "attach": ""
     },
     {
-      "no": "137",
+      "no": "154",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "기타",
@@ -2467,7 +2773,7 @@
       "attach": ""
     },
     {
-      "no": "138",
+      "no": "155",
       "moldType": "양산",
       "range": "기타",
       "reason": "고객요청",
@@ -2485,7 +2791,7 @@
       "attach": ""
     },
     {
-      "no": "139",
+      "no": "156",
       "moldType": "양산",
       "range": "기타",
       "reason": "고객요청",
@@ -2503,7 +2809,7 @@
       "attach": ""
     },
     {
-      "no": "140",
+      "no": "157",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2521,7 +2827,7 @@
       "attach": ""
     },
     {
-      "no": "141",
+      "no": "158",
       "moldType": "신작",
       "range": "전항목",
       "reason": "고객요청",
@@ -2539,7 +2845,7 @@
       "attach": ""
     },
     {
-      "no": "142",
+      "no": "159",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2557,7 +2863,7 @@
       "attach": ""
     },
     {
-      "no": "143",
+      "no": "160",
       "moldType": "신작",
       "range": "전항목",
       "reason": "금형수정",
@@ -2575,7 +2881,7 @@
       "attach": ""
     },
     {
-      "no": "144",
+      "no": "161",
       "moldType": "신작",
       "range": "전차수NG부",
       "reason": "금형수정",
@@ -2593,7 +2899,7 @@
       "attach": ""
     },
     {
-      "no": "145",
+      "no": "162",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -2611,7 +2917,7 @@
       "attach": ""
     },
     {
-      "no": "146",
+      "no": "163",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2629,7 +2935,7 @@
       "attach": ""
     },
     {
-      "no": "147",
+      "no": "164",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -2647,7 +2953,7 @@
       "attach": ""
     },
     {
-      "no": "148",
+      "no": "165",
       "moldType": "신작",
       "range": "전항목",
       "reason": "금형수정",
@@ -2665,7 +2971,7 @@
       "attach": ""
     },
     {
-      "no": "149",
+      "no": "166",
       "moldType": "신작",
       "range": "전항목",
       "reason": "기타",
@@ -2683,7 +2989,7 @@
       "attach": ""
     },
     {
-      "no": "150",
+      "no": "167",
       "moldType": "신작",
       "range": "전항목",
       "reason": "기타",
@@ -2701,7 +3007,7 @@
       "attach": ""
     },
     {
-      "no": "151",
+      "no": "168",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "기타",
@@ -2719,7 +3025,7 @@
       "attach": ""
     },
     {
-      "no": "152",
+      "no": "169",
       "moldType": "신작",
       "range": "기타",
       "reason": "금형수정",
@@ -2737,7 +3043,7 @@
       "attach": ""
     },
     {
-      "no": "153",
+      "no": "170",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -2755,7 +3061,7 @@
       "attach": ""
     },
     {
-      "no": "154",
+      "no": "171",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -2773,7 +3079,7 @@
       "attach": ""
     },
     {
-      "no": "155",
+      "no": "172",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -2791,7 +3097,7 @@
       "attach": ""
     },
     {
-      "no": "156",
+      "no": "173",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "금형수정",
@@ -2809,7 +3115,7 @@
       "attach": ""
     },
     {
-      "no": "157",
+      "no": "174",
       "moldType": "신작",
       "range": "기타",
       "reason": "고객요청",
@@ -2827,7 +3133,7 @@
       "attach": ""
     },
     {
-      "no": "158",
+      "no": "175",
       "moldType": "신작",
       "range": "기타",
       "reason": "고객요청",
@@ -2845,7 +3151,7 @@
       "attach": ""
     },
     {
-      "no": "159",
+      "no": "176",
       "moldType": "신작",
       "range": "전항목",
       "reason": "기타",
@@ -2863,7 +3169,7 @@
       "attach": ""
     },
     {
-      "no": "160",
+      "no": "177",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -2881,7 +3187,7 @@
       "attach": ""
     },
     {
-      "no": "161",
+      "no": "178",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -2899,7 +3205,7 @@
       "attach": ""
     },
     {
-      "no": "162",
+      "no": "179",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -2917,7 +3223,7 @@
       "attach": ""
     },
     {
-      "no": "163",
+      "no": "180",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -2935,7 +3241,7 @@
       "attach": ""
     },
     {
-      "no": "164",
+      "no": "181",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -2953,7 +3259,7 @@
       "attach": ""
     },
     {
-      "no": "165",
+      "no": "182",
       "moldType": "양산",
       "range": "기타",
       "reason": "고객요청",
@@ -2971,7 +3277,7 @@
       "attach": ""
     },
     {
-      "no": "166",
+      "no": "183",
       "moldType": "신작",
       "range": "전차수NG부",
       "reason": "금형수정",
@@ -2989,7 +3295,7 @@
       "attach": ""
     },
     {
-      "no": "167",
+      "no": "184",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -3007,7 +3313,7 @@
       "attach": ""
     },
     {
-      "no": "168",
+      "no": "185",
       "moldType": "신작",
       "range": "정합성승인항목",
       "reason": "기타",
@@ -3025,7 +3331,7 @@
       "attach": ""
     },
     {
-      "no": "169",
+      "no": "186",
       "moldType": "기타",
       "range": "도면표시부",
       "reason": "기타",
@@ -3043,7 +3349,7 @@
       "attach": ""
     },
     {
-      "no": "170",
+      "no": "187",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -3061,7 +3367,7 @@
       "attach": ""
     },
     {
-      "no": "171",
+      "no": "188",
       "moldType": "양산",
       "range": "전항목",
       "reason": "정기검사",
@@ -3079,7 +3385,7 @@
       "attach": ""
     },
     {
-      "no": "172",
+      "no": "189",
       "moldType": "양산",
       "range": "정합성승인항목",
       "reason": "기타",
@@ -3097,7 +3403,7 @@
       "attach": ""
     },
     {
-      "no": "173",
+      "no": "190",
       "moldType": "신작",
       "range": "전차수NG부",
       "reason": "금형수정",
@@ -3115,7 +3421,7 @@
       "attach": ""
     },
     {
-      "no": "174",
+      "no": "191",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3133,7 +3439,7 @@
       "attach": ""
     },
     {
-      "no": "175",
+      "no": "192",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3151,7 +3457,7 @@
       "attach": ""
     },
     {
-      "no": "176",
+      "no": "193",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3169,7 +3475,7 @@
       "attach": ""
     },
     {
-      "no": "177",
+      "no": "194",
       "moldType": "신작",
       "range": "전항목",
       "reason": "고객요청",
@@ -3187,7 +3493,7 @@
       "attach": ""
     },
     {
-      "no": "178",
+      "no": "195",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -3205,7 +3511,7 @@
       "attach": ""
     },
     {
-      "no": "179",
+      "no": "196",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -3223,7 +3529,7 @@
       "attach": ""
     },
     {
-      "no": "180",
+      "no": "197",
       "moldType": "신작",
       "range": "전항목",
       "reason": "고객요청",
@@ -3241,7 +3547,7 @@
       "attach": ""
     },
     {
-      "no": "181",
+      "no": "198",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -3259,7 +3565,7 @@
       "attach": ""
     },
     {
-      "no": "182",
+      "no": "199",
       "moldType": "신작",
       "range": "전항목",
       "reason": "기타",
@@ -3277,7 +3583,7 @@
       "attach": ""
     },
     {
-      "no": "183",
+      "no": "200",
       "moldType": "신작",
       "range": "전항목",
       "reason": "고객요청",
@@ -3295,7 +3601,7 @@
       "attach": ""
     },
     {
-      "no": "184",
+      "no": "201",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -3313,7 +3619,7 @@
       "attach": ""
     },
     {
-      "no": "185",
+      "no": "202",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -3331,7 +3637,7 @@
       "attach": ""
     },
     {
-      "no": "186",
+      "no": "203",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -3349,7 +3655,7 @@
       "attach": ""
     },
     {
-      "no": "187",
+      "no": "204",
       "moldType": "신작",
       "range": "기타",
       "reason": "고객요청",
@@ -3367,7 +3673,7 @@
       "attach": ""
     },
     {
-      "no": "188",
+      "no": "205",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3385,7 +3691,7 @@
       "attach": ""
     },
     {
-      "no": "189",
+      "no": "206",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -3403,7 +3709,7 @@
       "attach": ""
     },
     {
-      "no": "190",
+      "no": "207",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -3421,7 +3727,7 @@
       "attach": ""
     },
     {
-      "no": "191",
+      "no": "208",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3439,7 +3745,7 @@
       "attach": ""
     },
     {
-      "no": "192",
+      "no": "209",
       "moldType": "양산",
       "range": "기타",
       "reason": "고객요청",
@@ -3457,7 +3763,7 @@
       "attach": ""
     },
     {
-      "no": "193",
+      "no": "210",
       "moldType": "신작",
       "range": "전차수NG부",
       "reason": "금형수정",
@@ -3475,7 +3781,7 @@
       "attach": ""
     },
     {
-      "no": "194",
+      "no": "211",
       "moldType": "신작",
       "range": "전차수NG부",
       "reason": "금형수정",
@@ -3493,7 +3799,7 @@
       "attach": ""
     },
     {
-      "no": "195",
+      "no": "212",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -3511,7 +3817,7 @@
       "attach": ""
     },
     {
-      "no": "196",
+      "no": "213",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3529,7 +3835,7 @@
       "attach": ""
     },
     {
-      "no": "197",
+      "no": "214",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3547,7 +3853,7 @@
       "attach": ""
     },
     {
-      "no": "198",
+      "no": "215",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3565,7 +3871,7 @@
       "attach": ""
     },
     {
-      "no": "199",
+      "no": "216",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3583,7 +3889,7 @@
       "attach": ""
     },
     {
-      "no": "200",
+      "no": "217",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -3601,7 +3907,7 @@
       "attach": ""
     },
     {
-      "no": "201",
+      "no": "218",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3619,7 +3925,7 @@
       "attach": ""
     },
     {
-      "no": "202",
+      "no": "219",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3637,7 +3943,7 @@
       "attach": ""
     },
     {
-      "no": "203",
+      "no": "220",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3655,7 +3961,7 @@
       "attach": ""
     },
     {
-      "no": "204",
+      "no": "221",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -3673,7 +3979,7 @@
       "attach": ""
     },
     {
-      "no": "205",
+      "no": "222",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3691,7 +3997,7 @@
       "attach": ""
     },
     {
-      "no": "206",
+      "no": "223",
       "moldType": "기타",
       "range": "도면표시부",
       "reason": "기타",
@@ -3709,7 +4015,7 @@
       "attach": ""
     },
     {
-      "no": "207",
+      "no": "224",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -3727,7 +4033,7 @@
       "attach": ""
     },
     {
-      "no": "208",
+      "no": "225",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -3745,7 +4051,7 @@
       "attach": ""
     },
     {
-      "no": "209",
+      "no": "226",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3763,7 +4069,7 @@
       "attach": ""
     },
     {
-      "no": "210",
+      "no": "227",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3781,7 +4087,7 @@
       "attach": ""
     },
     {
-      "no": "211",
+      "no": "228",
       "moldType": "기타",
       "range": "도면표시부",
       "reason": "기타",
@@ -3799,7 +4105,7 @@
       "attach": ""
     },
     {
-      "no": "212",
+      "no": "229",
       "moldType": "양산",
       "range": "전차수NG부",
       "reason": "4M변경",
@@ -3817,7 +4123,7 @@
       "attach": ""
     },
     {
-      "no": "213",
+      "no": "230",
       "moldType": "신작",
       "range": "전항목",
       "reason": "기타",
@@ -3835,7 +4141,7 @@
       "attach": ""
     },
     {
-      "no": "214",
+      "no": "231",
       "moldType": "신작",
       "range": "정합성승인항목",
       "reason": "기타",
@@ -3853,7 +4159,7 @@
       "attach": ""
     },
     {
-      "no": "215",
+      "no": "232",
       "moldType": "PROTO",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -3871,7 +4177,7 @@
       "attach": ""
     },
     {
-      "no": "216",
+      "no": "233",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -3889,7 +4195,7 @@
       "attach": ""
     },
     {
-      "no": "217",
+      "no": "234",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "기타",
@@ -3907,7 +4213,7 @@
       "attach": ""
     },
     {
-      "no": "218",
+      "no": "235",
       "moldType": "신작",
       "range": "전차수NG부",
       "reason": "금형수정",
@@ -3925,7 +4231,7 @@
       "attach": ""
     },
     {
-      "no": "219",
+      "no": "236",
       "moldType": "기타",
       "range": "기타",
       "reason": "기타",
@@ -3943,7 +4249,7 @@
       "attach": ""
     },
     {
-      "no": "220",
+      "no": "237",
       "moldType": "양산",
       "range": "기타",
       "reason": "기타",
@@ -3961,7 +4267,7 @@
       "attach": ""
     },
     {
-      "no": "221",
+      "no": "238",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -3979,7 +4285,7 @@
       "attach": ""
     },
     {
-      "no": "222",
+      "no": "239",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -3997,7 +4303,7 @@
       "attach": ""
     },
     {
-      "no": "223",
+      "no": "240",
       "moldType": "기타",
       "range": "기타",
       "reason": "기타",
@@ -4015,7 +4321,7 @@
       "attach": ""
     },
     {
-      "no": "224",
+      "no": "241",
       "moldType": "기타",
       "range": "기타",
       "reason": "기타",
@@ -4033,7 +4339,7 @@
       "attach": ""
     },
     {
-      "no": "225",
+      "no": "242",
       "moldType": "양산",
       "range": "전항목",
       "reason": "기타",
@@ -4051,7 +4357,7 @@
       "attach": ""
     },
     {
-      "no": "226",
+      "no": "243",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -4069,7 +4375,7 @@
       "attach": ""
     },
     {
-      "no": "227",
+      "no": "244",
       "moldType": "신작",
       "range": "전항목",
       "reason": "금형수정",
@@ -4087,7 +4393,7 @@
       "attach": ""
     },
     {
-      "no": "228",
+      "no": "245",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -4105,7 +4411,7 @@
       "attach": ""
     },
     {
-      "no": "229",
+      "no": "246",
       "moldType": "증작",
       "range": "정합성승인항목",
       "reason": "고객요청",
@@ -4123,7 +4429,7 @@
       "attach": ""
     },
     {
-      "no": "230",
+      "no": "247",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -4141,7 +4447,7 @@
       "attach": ""
     },
     {
-      "no": "231",
+      "no": "248",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -4159,7 +4465,7 @@
       "attach": ""
     },
     {
-      "no": "232",
+      "no": "249",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -4177,7 +4483,7 @@
       "attach": ""
     },
     {
-      "no": "233",
+      "no": "250",
       "moldType": "양산",
       "range": "기타",
       "reason": "고객요청",
@@ -4195,7 +4501,7 @@
       "attach": ""
     },
     {
-      "no": "234",
+      "no": "251",
       "moldType": "기타",
       "range": "기타",
       "reason": "기타",
@@ -4213,7 +4519,7 @@
       "attach": ""
     },
     {
-      "no": "235",
+      "no": "252",
       "moldType": "양산",
       "range": "전항목",
       "reason": "정기검사",
@@ -4231,7 +4537,7 @@
       "attach": ""
     },
     {
-      "no": "236",
+      "no": "253",
       "moldType": "양산",
       "range": "전항목",
       "reason": "정기검사",
@@ -4249,7 +4555,7 @@
       "attach": ""
     },
     {
-      "no": "237",
+      "no": "254",
       "moldType": "양산",
       "range": "전항목",
       "reason": "고객요청",
@@ -4267,7 +4573,7 @@
       "attach": ""
     },
     {
-      "no": "238",
+      "no": "255",
       "moldType": "신작",
       "range": "전항목",
       "reason": "고객요청",
@@ -4285,7 +4591,7 @@
       "attach": ""
     },
     {
-      "no": "239",
+      "no": "256",
       "moldType": "신작",
       "range": "도면표시부",
       "reason": "고객요청",
@@ -4303,7 +4609,7 @@
       "attach": ""
     },
     {
-      "no": "240",
+      "no": "257",
       "moldType": "증작",
       "range": "전항목",
       "reason": "기타",
@@ -4321,7 +4627,7 @@
       "attach": ""
     },
     {
-      "no": "241",
+      "no": "258",
       "moldType": "증작",
       "range": "전항목",
       "reason": "기타",
@@ -4339,7 +4645,7 @@
       "attach": ""
     },
     {
-      "no": "242",
+      "no": "259",
       "moldType": "양산",
       "range": "도면표시부",
       "reason": "기타",
@@ -4357,7 +4663,7 @@
       "attach": ""
     },
     {
-      "no": "243",
+      "no": "260",
       "moldType": "신작",
       "range": "전차수NG부",
       "reason": "금형수정",
@@ -4375,7 +4681,7 @@
       "attach": ""
     },
     {
-      "no": "244",
+      "no": "261",
       "moldType": "신작",
       "range": "기타",
       "reason": "기타",
@@ -4393,7 +4699,7 @@
       "attach": ""
     },
     {
-      "no": "245",
+      "no": "262",
       "moldType": "PROTO",
       "range": "기타",
       "reason": "금형수정",
@@ -4412,60 +4718,60 @@
     }
   ],
   "meta": {
-    "fileName": "측정의뢰 등록 (1).xlsx",
-    "uploadedAt": "2026-09-10T02:38:43.263Z",
-    "count": 245
+    "fileName": "측정의뢰 등록 (4).xlsx",
+    "uploadedAt": "2026-09-21T23:55:50.969Z",
+    "count": 262
   },
   "waiting": [
     {
-      "id": "WT-1789007923260-0",
-      "no": "1",
+      "id": "WT-1790061300005-1",
+      "no": "2",
       "customer": "현대모비스(주)",
-      "item": "MEB5.2 HOUSING",
+      "item": "MEB5.2 HOUSING Ass`Y",
       "partNo": "-",
       "qty": "4",
-      "requestDate": "2026-09-07",
-      "dueDate": "2026-09-10",
-      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "requestDate": "2026-09-17",
+      "dueDate": "2026-09-18",
+      "assignee": "이정훈(Lee Jeonghoon)",
       "source": "qms",
       "registered": false,
-      "createdAt": "2026-09-10"
+      "createdAt": "2026-09-22"
     },
     {
-      "id": "WT-1789007923260-2",
-      "no": "3",
-      "customer": "주식회사 유라테크",
-      "item": "601B 4PIN CONNERTOR",
-      "partNo": "-",
-      "qty": "15",
-      "requestDate": "2026-08-26",
-      "dueDate": "2026-09-11",
-      "assignee": "임동혁\n(LIM DONGHYUK)",
+      "id": "WT-1790061300005-3",
+      "no": "4",
+      "customer": "현대케피코",
+      "item": "듀얼퍼지이젝터 ADAPTOR AIR TUBE(CL4m)",
+      "partNo": "E9165020011",
+      "qty": "3",
+      "requestDate": "2026-09-17",
+      "dueDate": "2026-09-22",
+      "assignee": "이정훈(Lee Jeonghoon)",
       "source": "qms",
       "registered": false,
-      "createdAt": "2026-09-10"
+      "createdAt": "2026-09-22"
     },
     {
-      "id": "WT-1789007923260-11",
-      "no": "12",
+      "id": "WT-1790061300005-13",
+      "no": "14",
       "customer": "HL Klemove(송도)",
-      "item": "IDB2 HOUSING MIRRORED",
+      "item": "IDB2 HOUSING Ass`Y BASE",
       "partNo": "-",
-      "qty": "2",
-      "requestDate": "2026-09-04",
+      "qty": "3",
+      "requestDate": "2026-09-16",
       "dueDate": "2026-09-23",
       "assignee": "이정훈(Lee Jeonghoon)",
       "source": "qms",
       "registered": false,
-      "createdAt": "2026-09-10"
+      "createdAt": "2026-09-22"
     }
   ],
   "prov": [],
   "equipStatus": {
-    "m1": "run",
+    "m1": "stop",
     "m2": "run",
-    "m1_at": "2026-09-10T02:51:10.848Z",
-    "m2_at": "2026-09-10T02:51:09.304Z"
+    "m1_at": "2026-09-21T02:04:48.183Z",
+    "m2_at": "2026-09-21T23:55:59.463Z"
   },
-  "updatedAt": "2026-09-10T02:51:10.848Z"
+  "updatedAt": "2026-09-22T07:15:00.009Z"
 }
