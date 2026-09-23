@@ -1,0 +1,20 @@
+[
+  {
+    "no": "1",
+    "moldType": "점검중",
+    "range": "점검중",
+    "reason": "점검중",
+    "customer": "점검중",
+    "item": "임시 점검중",
+    "partNo": "-",
+    "prodDate": "2026-09-24",
+    "qty": "0",
+    "dept": "품질보증팀(Quality Assurance Team)",
+    "requestDate": "2026-09-24",
+    "dueDate": "2026-09-24",
+    "completeDate": "",
+    "assignee": "점검중",
+    "approval": "점검중",
+    "attach": ""
+  }
+]
