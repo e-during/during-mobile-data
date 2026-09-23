@@ -1,0 +1,21 @@
+[
+  {
+    "no": 1,
+    "partNo": "TEST-000",
+    "receiveDate": "2026-09-24",
+    "customer": "점검중",
+    "vendor": "점검중",
+    "item": "임시 점검중",
+    "lot": "",
+    "receiveQty": 0,
+    "inspectQty": "",
+    "inspectDate": "2026-09-24",
+    "judgement": "점검중",
+    "assignee": "점검중",
+    "remark": "임시 테스트 데이터입니다",
+    "sheetName": "2026.09",
+    "bucket": "current",
+    "uid": "2026-09-24|TEST-000||임시 점검중",
+    "connNo": 1
+  }
+]
