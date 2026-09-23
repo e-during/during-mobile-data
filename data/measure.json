@@ -4724,8 +4724,8 @@
   },
   "waiting": [
     {
-      "id": "WT-1790129359275-1",
-      "no": "2",
+      "id": "WT-1790140715839-2",
+      "no": "3",
       "customer": "현대모비스(주)",
       "item": "MEB5.2 HOUSING Ass`Y",
       "partNo": "-",
@@ -4736,42 +4736,14 @@
       "source": "qms",
       "registered": false,
       "createdAt": "2026-09-23"
-    },
-    {
-      "id": "WT-1790129359275-3",
-      "no": "4",
-      "customer": "현대케피코",
-      "item": "듀얼퍼지이젝터 ADAPTOR AIR TUBE(CL4m)",
-      "partNo": "E9165020011",
-      "qty": "3",
-      "requestDate": "2026-09-17",
-      "dueDate": "2026-09-22",
-      "assignee": "이정훈(Lee Jeonghoon)",
-      "source": "qms",
-      "registered": false,
-      "createdAt": "2026-09-23"
-    },
-    {
-      "id": "WT-1790129359275-13",
-      "no": "14",
-      "customer": "HL Klemove(송도)",
-      "item": "IDB2 HOUSING Ass`Y BASE",
-      "partNo": "-",
-      "qty": "3",
-      "requestDate": "2026-09-16",
-      "dueDate": "2026-09-23",
-      "assignee": "이정훈(Lee Jeonghoon)",
-      "source": "qms",
-      "registered": false,
-      "createdAt": "2026-09-23"
     }
   ],
   "prov": [],
   "equipStatus": {
-    "m1": "stop",
-    "m2": "run",
-    "m1_at": "2026-09-21T02:04:48.183Z",
-    "m2_at": "2026-09-21T23:55:59.463Z"
+    "m1": "run",
+    "m2": "stop",
+    "m1_at": "2026-09-23T05:04:22.283Z",
+    "m2_at": "2026-09-23T02:55:18.006Z"
   },
-  "updatedAt": "2026-09-23T02:09:19.280Z"
+  "updatedAt": "2026-09-23T05:18:35.842Z"
 }
